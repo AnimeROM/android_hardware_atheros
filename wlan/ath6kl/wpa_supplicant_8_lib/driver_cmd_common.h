@@ -1,4 +1,5 @@
 /*
+ * Copyright (C) 2014 The AnimeROM Project
  * Driver interaction for private interface
  *
  * This program is free software; you can redistribute it and/or modify
